@@ -2,7 +2,7 @@
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-](https://colab.research.google.com/github/Sungjinwoo0001/fixai-predictive-maintenance/blob/main/FixAI_Predictive_Maintenance.ipynb)
+](https://colab.research.google.com/github/sungjinwoo0001/fixai-predictive-maintenance/blob/main/FixAI_Predictive_Maintenance.ipynb)
 
 
 # ⚙️ FixAI — AI-Powered Predictive Maintenance Platform
