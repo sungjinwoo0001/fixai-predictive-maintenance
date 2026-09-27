@@ -1,3 +1,10 @@
+[
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+](https://colab.research.google.com/github/Sungjinwoo001/fixai-predictive-maintenance/blob/main/FixAI_Predictive_Maintenance.ipynb)
+
+
 # ⚙️ FixAI — AI-Powered Predictive Maintenance Platform
 
 An MVP demonstrating **LLM-based reasoning** (Groq `openai/gpt-oss-120b`) over
